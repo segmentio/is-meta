@@ -1,0 +1,26 @@
+{
+  "name": "is-meta",
+  "repo": "segmentio/is-meta",
+  "description": "Component: check whether a DOM click event would open in a new tab.",
+  "version": "0.0.1",
+  "keywords": [
+    "meta",
+    "tab",
+    "new",
+    "ctrl",
+    "cmd",
+    "command",
+    "alt",
+    "shift",
+    "key",
+    "click",
+    "event"
+  ],
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
