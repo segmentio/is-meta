@@ -1,7 +1,7 @@
 
 # load-script
 
-  Component: check whether a DOM click event would open in a new tab.
+  Component: check whether a DOM click event would open a link in a new tab.
 
 ## Installation
 

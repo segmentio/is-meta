@@ -1,7 +1,7 @@
 {
   "name": "is-meta",
   "repo": "segmentio/is-meta",
-  "description": "Component: check whether a DOM click event would open in a new tab.",
+  "description": "Component: check whether a DOM click event would open a link in a new tab.",
   "version": "0.0.1",
   "keywords": [
     "meta",
