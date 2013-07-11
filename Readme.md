@@ -1,5 +1,4 @@
-
-# load-script
+# is-meta
 
   Component: check whether a DOM click event would open a link in a new tab.
 
