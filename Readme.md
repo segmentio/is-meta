@@ -1,7 +1,6 @@
-
 # is-meta
 
-  Component: check whether a DOM click event would open a link in a new tab.
+  Checks whether a DOM `click` event should open a link in a new tab.
 
 ## Installation
 
